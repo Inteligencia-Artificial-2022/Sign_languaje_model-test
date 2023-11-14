@@ -7,3 +7,5 @@ Por si quieres ahorrarte el tiempo de configurar todo para hacer tus propias pru
 
 
 **IMPORTANTE:** _La carpeta de IA_model, Data_source y el archivo Pruebas_modelo deben estar en la misma carpeta_
+
+**IMPORTANTE:** _Para el correcto funcionamiento en VSCode debe tener python 3.9.18 por la compatibilidad con tensorflow y si utiliza Anaconda el enviroment debe estar en la misma versión_
