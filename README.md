@@ -3,7 +3,7 @@ _Modelo entrenado para la clasificación de imágenes de lengua de señas_
 
 Descarga la carpeta de datos: [Data_source](https://unahhn-my.sharepoint.com/:f:/g/personal/oned_gomez_unah_hn/EjBHDtu1tFJGtgNL0pNwkdcBNA-DhcCenOlo-m1KQlh-HA?e=kFap6K)
 
-Para la validación de sus pruebas, adjuntamos ![Alfabeto de LESHO](https://www.pinterest.com/pin/552253973050881505/)
+Para la validación de sus pruebas, ![Alfabeto de LESHO] (https://i.pinimg.com/736x/66/cc/ad/66ccad1a378fd3aad75b99944fed3053.jpg)
 
 Por si quieres ahorrarte el tiempo de configurar todo para hacer tus propias pruebas, aquí tienes: [Video Realizando dos pruebas con el modelo](https://unahhn-my.sharepoint.com/:v:/g/personal/oned_gomez_unah_hn/ERvQ7_NdkWlBiZv8bERZca4BparcbAaGmaQWZ7MMyj8Qqw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=O0b9ka)
 
